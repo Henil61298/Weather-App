@@ -1,2 +1,2 @@
-# Weather-App
-Weather app that broadcast weather from all around globe
+# weather-app
+It displays weather of every other city.
